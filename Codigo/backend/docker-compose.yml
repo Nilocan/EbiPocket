@@ -1,0 +1,17 @@
+version: '3.3'
+
+services:
+  database:
+    image: postgres:10.17
+    restart: always
+    container_name: 'chinese_food_local_test'
+    environment:
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: postgres
+      POSTGRES_DB: 'chinese_food'
+    volumes:
+      - pg-data:/var/lib/postgresql/data
+    ports:
+      - '5434:5432'
+volumes:
+  pg-data:

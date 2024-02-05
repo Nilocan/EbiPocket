@@ -1,0 +1,29 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: 
+authors:
+  - family-names: Chen
+    given-names: Tito Li An
+  - family-names: Martins
+    given-names: Rafael Pierre
+  - family-names: Couto
+    given-names: Fernando Lucio Mello do
+  - family-names: Borges
+    given-names: Gabriel Augusto Souza
+  - family-names: Lima
+    given-names: Vinicius Assis
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Silva
+    given-names: Soraia Lúcia da Silva
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Carvalho
+    given-names: Joyce Christina de Paiva 
+keywords:
+  - Shopping 
+  - Delivery
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2023-12-13
