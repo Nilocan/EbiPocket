@@ -1,4 +1,6 @@
 # Ebi Pocket
+Front hospedado no Vercel
+Back e bd hospedado no Railway
 
 Este trabalho apresenta um estudo de caso sobre o desenvolvimento de um sistema de pedidos online para uma loja de marmitas chinesas, com enfoque nas áreas de engenharia de software e metodologias ágeis, como Scrum e Kanban. O projeto, realizado como  prática extensionista universitária, tem como objetivo geral aprimorar a experiência do cliente, otimizar o processo de preparação na cozinha e aperfeiçoar o sistema de entregas. A pesquisa qualitativa e exploratória abrange etapas que vão desde a análise inicial e levantamento de requisitos até o design, desenvolvimento, testes e implementação do sistema, com foco nas necessidades e expectativas das partes interessadas, incluindo o restaurante, clientes e usuários. Este trabalho contribui para a integração prática de conhecimentos acadêmicos e para a aplicação de metodologias ágeis em um contexto real de negócios, com base em sólidos princípios de engenharia de software.
 
